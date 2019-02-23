@@ -14,6 +14,6 @@ Pagina de onde os dados são recebido => https://rocketseat-node.herokuapp.com/a
 
 ![captura de tela 2019-02-23 as 01 05 57](https://user-images.githubusercontent.com/7758523/53281540-00d98700-3709-11e9-8639-39c39cbf0c30.png)
 
-# Aqui temos um Gif que esta td bugado (Não, o aplicativo nãio trava como nesse gif) #
+# Aqui temos um Gif que esta td bugado (Não, o aplicativo não trava como nesse gif, provavelmente é bug do server com imagens) #
 
 ![video2](https://user-images.githubusercontent.com/7758523/53281544-059e3b00-3709-11e9-8d2f-cfef8a60efa7.gif)
