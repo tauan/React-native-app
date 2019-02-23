@@ -1,2 +1,4 @@
 # React-native-app-
-Aplicativo nativo desenvolvido em React Native que retorna o conteúdo de uma aplicação remota, alem de possuir um navegador integrado que permite uma experiencia melhor ao usuário 
+Aplicativo nativo desenvolvido em React Native que retorna o conteúdo de uma aplicação remota, alem de possuir um navegador integrado que permite uma experiencia melhor ao usuário.
+
+--Pagina de onde os dados são recebido-- : https://rocketseat-node.herokuapp.com/api/products
